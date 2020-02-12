@@ -1,3 +1,4 @@
-# NLP_Course_Work
+# NLP_Assignment_1
 
-This repository contains the projects and assignments completed as a part of the course COMP 5413 - Topics in Natural Language Processing
+This repository holds the necessary files for submission of Assignment_1
+
